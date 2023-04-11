@@ -6,8 +6,6 @@ import { NavLink } from '../constants';
 import { logo, menu, close } from '../assets';
 
 const Navbar = () => {
-  const [active, setActive] = useState(' ')
-
   return (
    <nav
     className={`
@@ -19,7 +17,6 @@ const Navbar = () => {
           className="flex items-center gap-2"
           onClick={() => {
             setActive("");
-            window.scrollTo(0, 0)
           }}
           >
         </Link>
