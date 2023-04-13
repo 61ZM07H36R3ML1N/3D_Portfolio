@@ -1,2 +1,2 @@
 # 3D_Portfolio
-this is a project where i created my portfolio. i leveraged html, tailwindcss, postcss, react, and threejs 
+This is a project where I created my portfolio. I leveraged html, tailwindcss, postcss, react, and threejs 
